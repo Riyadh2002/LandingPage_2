@@ -1,16 +1,105 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Modern React Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually stunning, responsive, and component-based landing page built using **React** and **Tailwind CSS**. Perfect for startups, portfolios, or marketing websites.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Click here to view the live site](https://landingpage2220.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# LandingPage_2
->>>>>>> 7e9fdc60919646e26bdbc0bd0fdf556f836dcda9
+---
+
+## 📸 Preview
+<img width="3968" height="1585" alt="landing_page_2" src="https://github.com/user-attachments/assets/257aba0d-c8b8-4294-bbd8-61d005eca568" />
+
+
+
+
+---
+
+## ✨ Features
+
+- 🎨 Beautiful glassmorphism-style UI
+- 📱 Fully responsive for mobile, tablet, and desktop
+- ⚡ Optimized performance with Vite
+- 🔗 Hero section, Workflow, Testimonials, and Pricing
+- 🔄 Reusable components for scalability
+- 🎥 Multimedia support (videos, images)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **Vite**
+- **HTML5 
+
+---
+
+## 📁 Folder Structure
+
+LandingPage_2/
+├── src/
+│ ├── assets/
+│ │ ├── profile-pictures/
+│ │ ├── code.jpg
+│ │ ├── logo.png
+│ │ ├── react.svg
+│ │ ├── video1.mp4
+│ │ └── video2.mp4
+│ ├── components/
+│ │ ├── Featurs.jsx
+│ │ ├── Footer.jsx
+│ │ ├── Hero.jsx
+│ │ ├── Navbar.jsx
+│ │ ├── Pricing.jsx
+│ │ ├── Testimonial.jsx
+│ │ └── Workflow.jsx
+│ ├── constants/
+│ ├── App.css
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+└── vite.config.js
+
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Riyadh2002/LandingPage_2.git
+
+# Navigate into the project directory
+cd LandingPage_2
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
+
+🙋‍♂️ Author
+Name: Riyad
+
+GitHub: @Riyadh2002
+
+Live Site: landingpage2220.netlify.app
+
+
+
+
+
